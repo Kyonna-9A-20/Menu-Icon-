@@ -1,0 +1,29 @@
+header img{
+    height: 100px;
+}
+header{
+    text-align: center;
+    background-color: #F4F6F6;
+    box-shadow: 150px;
+    font-family: 'Akshar';
+}
+nav{
+    margin-top: 10px;
+    font-size: 20px ;
+    box-shadow: 5px ;
+    padding: 10px;
+}
+nav a{
+    text-decoration: none;
+    color:crimson;
+    padding: 5px 15px;
+    font-size: 16px;
+}
+nav a:hover{
+    color: black;
+    background-color:#C5172E ;
+    transition: 0.7s ;
+}
+body{
+    background-color: #8E1616;
+}
